@@ -33,8 +33,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LOKESH N
+### Register Number: 212222100023
+
+![image](https://github.com/lokeshnarayanan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393019/92f68839-6fc7-4527-ae20-563a2fcb776c)
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
